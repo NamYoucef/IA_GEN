@@ -1,1 +1,3 @@
-# IA_GEN
+# IA Génarative
+
+Master 2 I2A
