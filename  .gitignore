@@ -1,0 +1,24 @@
+# Ignorer les dossiers d'environnements virtuels
+venv/
+.venv/
+
+# Fichiers spécifiques à Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+.env
+
+# Configurations d'éditeurs de texte
+.vscode/
+.idea/
+
+# Fichiers de logs
+*.log
+
+# Fichiers de sauvegarde ou temporaires
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
